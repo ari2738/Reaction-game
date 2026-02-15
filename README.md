@@ -26,8 +26,7 @@ The system generates a random delay (1–4 seconds).
 After the delay, a colored box appears on the screen.
 The timer starts automatically.
 User clicks the box as quickly as possible.
-The system calculates:
-Copy code
+And get a reaction time the user can restart a game.
 
 Reaction Time = Click Time – Appearance Time
 The reaction time is displayed on the screen.
